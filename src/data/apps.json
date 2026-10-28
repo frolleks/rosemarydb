@@ -238,8 +238,8 @@
   {
     "id": "sas4",
     "name": "SAS: Zombie Assault 4",
-    "description": "Intense action-shooter with deep rpg elements, including upgradeable guns and armor, unique class skills, and class special abilities.",
-    "tier": "borked",
+    "description": "Purge the undead! Intense action-shooter with deep rpg elements, including upgradeable guns and armor, unique class skills, and class special abilities. Entire game can be played single player or as a 4-player online co-op game, including PvP events like Last Man Standing. ",
+    "tier": "gold",
     "image": "/images/sas4.jpg",
     "steamAppId": 678800
   },
