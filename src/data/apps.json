@@ -76,7 +76,7 @@
     "id": "roblox-studio",
     "name": "Roblox Studio",
     "description": "Roblox's editor for building and publishing games on the platform.",
-    "tier": "silver",
+    "tier": "borked",
     "image": "/images/roblox-studio.png",
     "website": "https://create.roblox.com/"
   },
