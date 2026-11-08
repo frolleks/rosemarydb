@@ -447,6 +447,7 @@
     "description": "Create the perfect world with full customization at your fingertips. Refine personalities and help fulfill destinies.",
     "tier": "borked",
     "steamAppId": 47890,
-    "image": "/images/sims3.jpg"
+    "image": "/images/sims3.jpg",
+    "website": "https://www.ea.com/games/the-sims/the-sims-3"
   }
 ]
