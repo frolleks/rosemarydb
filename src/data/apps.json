@@ -440,5 +440,12 @@
     "description": "Free and open source browser engine project",
     "image": "/images/IMG_6285.png",
     "tier": "borked"
+  },
+  {
+    "id": "sims3",
+    "name": "The Sims 3",
+    "description": "Create the perfect world with full customization at your fingertips. Refine personalities and help fulfill destinies.",
+    "tier": "borked",
+    "steamAppId": 47890
   }
 ]
